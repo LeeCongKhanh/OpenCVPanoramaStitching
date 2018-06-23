@@ -1,2 +1,2 @@
-# Panorama360
+# OpenCV Panorama Stitching 
 Thị giác máy tính Python
